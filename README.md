@@ -73,7 +73,7 @@ Potato-Disease-Classification/
 Clone the repository:
 
 ```bash
-git clone https://github.com/devanshshr22/Potato-Disease-Clasiification.git
+git clone https://github.com/dh10uv/Potato-disease-clasiification.git
 ```
 
 Navigate to the project directory:
@@ -118,6 +118,6 @@ Run all cells to train the model and perform predictions.
 
 ## Author
 
-**Devansh Shrivastava**
+**Dhruv Kumar Singh**
 
-GitHub: https://github.com/devanshshr22
+GitHub: https://github.com/dh10uv
